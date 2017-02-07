@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software Development = Brain Not Turning to Mush"
-date:   2017-02-06 03:34:13 +0000
+date:   2017-02-05 22:34:14 -0500
 ---
 
 
