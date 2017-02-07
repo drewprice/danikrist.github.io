@@ -1,0 +1,21 @@
+# Site settings
+title: Coding with Croxton
+header-img: img/home-bg.png
+email: danikrist@gmail.com
+copyright_name: danikrist
+description: > # this means to ignore newlines until "baseurl:"
+  An array of thoughts on life, learning, and code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: daniellecroxton
+github_username:  danikrist
+learn_profile: danikrist
+email_username: danikrist@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
