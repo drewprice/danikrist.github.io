@@ -4,6 +4,7 @@ title:  "Software Development = Brain Not Turning to Mush"
 date:   2017-02-05 22:34:14 -0500
 ---
 
+Hi
 
 After 10 weeks of maternity leave, I decided to quit my job as a Project Manager at a marketing agency. I enjoyed what I did, but I knew I had a hard time leaving work at a reasonable time, especially when we were busy (which was 85% of the time). I loved being home with my daughter and seeing all her 'firsts.' But, as anyone who has been home with a baby for an extended period can tell you, I was feeling lonely, but never alone; busy, but unaccomplished. I missed my colleagues, problem solving, and feeling like I was contributing. I started taking some Lynda.com courses on development. I completed a couple, but dropped off as the holidays started taking my attention. 
 
